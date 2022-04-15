@@ -1,6 +1,6 @@
 ## Hello world! :wave:
 
-I'm **@nonelement**, almost everywhere. I **write software**, but I also **program**, and sometimes **code**. :computer: &nbsp; I do **design** sometimes, and have a fondness for **UX**. :sparkles: &nbsp; I like learning new things! &nbsp; :books:
+I'm **@nonelement**, almost everywhere. I **write software**, but I also **program**, and sometimes **code**. :computer: I do **design** sometimes, and have a fondness for **UX**. :sparkles: I like learning new things! :books:
 
 I've worked professionally in **ecommerce**, **finance**, **health**, **ad-tech**, and **education**, at **big companies** and **small ones**, on the **front end** and **back end**. :zap:
 
