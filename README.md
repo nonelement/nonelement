@@ -1,7 +1,7 @@
 ## Hello world! :wave:
 
-I'm **@nonelement**, almost everywhere. I **write software**, but I also **program**, and sometimes **code**. :computer: I do **design** sometimes, and have a fondness for **UX**. :sparkles: I like learning new things! :books:
+I'm a full-stack software engineer that likes learning new things and collaborating! Other things I like: software as craft, clean interfaces, command lines, slick code AND boring code.
 
-I've worked professionally in **ecommerce**, **finance**, **health**, **ad-tech**, and **education**, at **big companies** and **small ones**, on the **front end** and **back end**. :zap:
+I've shipped a lot of things across a pretty big range of domains, and worked with a ton of different people to get those things across the finish line. ✨
 
-Do you think I'd be a good person to collaborate with? Please reach out! &nbsp; :speech_balloon:
+Got an interesting problem and need someone to lean in on it? Reach out!
